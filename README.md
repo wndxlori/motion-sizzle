@@ -1,4 +1,4 @@
-# Motion::Sizzle
+# MotionSizzle
 
 View selector engine based off jQuery's Sizzle Selector Engine. Use CSS-like selectors to find your views.
 
