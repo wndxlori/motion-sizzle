@@ -1,6 +1,6 @@
 # Motion::Sizzle
 
-TODO: Write a gem description
+View selector engine based off jQuery's Sizzle Selector Engine. Use CSS-like selectors to find your views.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+**WORK IN PROGRESS, NOT ACTUALLY AVAILABLE YET**
 
 ## Contributing
 
